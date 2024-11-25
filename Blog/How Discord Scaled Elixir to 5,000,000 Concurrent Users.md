@@ -1,0 +1,1 @@
+Link: https://discord.com/blog/how-discord-scaled-elixir-to-5-000-000-concurrent-users

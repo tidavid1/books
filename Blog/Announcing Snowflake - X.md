@@ -1,0 +1,1 @@
+> Link: https://blog.x.com/engineering/en_us/a/2010/announcing-snowflake
